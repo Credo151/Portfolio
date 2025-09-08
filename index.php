@@ -1,0 +1,571 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Credo VIRCHY Porfolio</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+
+  <!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+	<div id="colorlib-page">
+		<div class="container-wrap">
+		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+		<aside id="colorlib-aside" role="complementary" class="border js-fullheight">
+			<div class="text-center">
+				<div class="author-img" style="background-image: url(images/credo.jpg);"></div>
+				<h1 id="colorlib-logo"><a href="index.html">Credo J.I.M. VIRCHY</a></h1>
+				<span class="position"><a href="#">Développeur  Web</a> à Cotonou, Bénin</span>
+			</div>
+			<nav id="colorlib-main-menu" role="navigation" class="navbar">
+				<div id="navbar" class="collapse">
+					<ul>
+						<li class="active"><a href="#" data-nav-section="home">Accueil</a></li>
+						<li><a href="#" data-nav-section="about">À propos</a></li>
+						<li><a href="#" data-nav-section="services">Services</a></li>
+						<li><a href="#" data-nav-section="skills">Compétences</a></li>
+						<li><a href="#" data-nav-section="education">Éducation</a></li>
+						<li><a href="#" data-nav-section="work">Projets Académiques</a></li>
+						<li><a href="#" data-nav-section="contact">Contact</a></li>
+					</ul>
+				</div>
+			</nav>
+
+			<div class="colorlib-footer">
+				<p><small>&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+					Copyright <script>document.write(new Date().getFullYear());</script> All rights reserved. Made by Credo VIRCHY
+					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> </span>
+				</small></p>
+				<ul>
+					<li><a href="#"><i class="icon-facebook2"></i></a></li>
+					<li><a href="#"><i class="icon-twitter2"></i></a></li>
+					<li><a href="#"><i class="icon-instagram"></i></a></li>
+					<li><a href="#"><i class="icon-linkedin2"></i></a></li>
+				</ul>
+			</div>
+
+		</aside>
+
+		<div id="colorlib-main">
+			<!-- Home Section -->
+			<section id="colorlib-hero" class="js-fullheight" data-section="home">
+				<div class="flexslider js-fullheight">
+					<ul class="slides">
+						<li style="background-color: #6E8999;">
+							<div class="overlay"></div>
+							<div class="container-fluid">
+								<div class="row">
+									<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+										<div class="slider-text-inner js-fullheight">
+											<div class="desc">
+												<h1>Bonjour, <br>Je suis Credo VIRCHY</h1>
+												<h2>Développeur web passionné, je mets mes compétences au service de vos projets afin de collaborer, innover et créer de la valeur.</h2>
+												<p><a href="#" class="btn btn-primary btn-learn">Télécharger le CV <i class="icon-download4"></i></a></p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+				  	</ul>
+			  	</div>
+			</section>
+
+			<!-- About Section -->
+			<section class="colorlib-about" data-section="about">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="col-md-12">
+									<div class="about-desc">
+										<span class="heading-meta">A propos</span>
+										<h2 class="colorlib-heading">Qui suis-je?</h2>
+										<p>
+											<strong>Bonjour, je suis Credo VIRCHY,</strong> Développeur web en fin de formation, 
+										  	motivé et orienté résultats, avec des compétences en conception d’interfaces responsive,
+										   	intégration front-end et gestion de bases de données.
+										</p>
+										<p>
+											Curieux, rigoureux et doté d’un bon esprit d’équipe, je souhaite rejoindre 
+											une entreprise dynamique pour un <br> stage académique afin de développer mes compétences 
+											techniques et participer à des projets réels.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
+									<div class="services color-1">
+										<span class="icon2"><i class="icon-bulb"></i></span>
+										<h3>Créativité</h3>
+									</div>
+								</div>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
+									<div class="services color-2">
+										<span class="icon2"><i class="icon-globe"></i></span>
+										<h3>Dev Web</h3>
+									</div>
+								</div>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
+									<div class="services color-4">
+										<span class="icon2"><i class="icon-phone3"></i></span>
+										<h3>Application</h3>
+									</div>
+								</div>
+								<div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
+									<div class="services color-3">
+										<span class="icon2"><i class="icon-data"></i></span>
+										<h3>Data bases</h3>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Services Section -->
+			<section class="colorlib-services" data-section="services">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Ce que je fais</span>
+							<h2 class="colorlib-heading">Voici quelques-unes de mes expertises</h2>
+						</div>
+					</div>
+					<div class="row row-pt-md">
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-1">
+								<span class="icon">
+									<i class="icon-bulb"></i>
+								</span>
+								<div class="desc">
+									<h3>Idées Innovantes</h3>
+									<p>Je conçois des solutions créatives et originales pour répondre à vos besoins numériques, en combinant innovation et efficacité.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-2">
+								<span class="icon">
+									<i class="icon-data"></i>
+								</span>
+								<div class="desc">
+									<h3>Data Bases</h3>
+									<p>Gestion, conception et optimisation de bases de données fiables et sécurisées, pour assurer la performance et la pérennité de vos projets.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 text-center animate-box">
+							<div class="services color-3">
+								<span class="icon">
+									<i class="icon-phone3"></i>
+								</span>
+								<div class="desc">
+									<h3>Applications</h3>
+									<p>Développement d’applications mobiles modernes et responsives, offrant une expérience utilisateur fluide et adaptée à tous les appareils.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Skills Section -->
+			<section class="colorlib-skills" data-section="skills">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Ma Spécialité</span>
+							<h1 class="colorlib-heading animate-box">Mes Compétences</h1>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+							<p>
+								Passionné par le développement web, je maîtrise les technologies modernes pour 
+								concevoir et intégrer des applications performantes et esthétiques. Mon expertise 
+								couvre aussi bien le front-end (HTML, CSS, JavaScript, React, Tailwind CSS) que le 
+								back-end (PHP, Laravel, MySQL). Je porte une attention particulière à l’ergonomie et
+								à l’expérience utilisateur afin de proposer des solutions adaptées aux besoins réels. 
+								Curieux et en constante évolution, j’élargis continuellement mes compétences pour répondre aux défis du numérique.
+							</p>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Photoshop</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="75"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+								    <span>75%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>Laravel</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="60"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:60%">
+								    <span>50%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>HTML5, JavaScript, CSS, React</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="85"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:85%">
+								    <span>90%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>PHP, MySQL</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
+								    <span>90%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>WordPress</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+								    <span>70%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="progress-wrap">
+								<h3>SEO</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								    <span>80%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Education Section -->
+			<section class="colorlib-education" data-section="education">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Education</span>
+							<h2 class="colorlib-heading animate-box">Formations académiques et professionnelles</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+							<div class="fancy-collapse-panel">
+								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingOne">
+									        <h4 class="panel-title">
+									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+													Developpement Web & Mobile (Février 2025 - Aujourd'hui, à l'EIG de Cotonou)
+									            </a>
+									        </h4>
+									    </div>
+									    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+									         <div class="panel-body">
+									            <div class="row">
+										      		<div class="col-md-6">
+										      			<p>
+															Formation complète axée sur la conception et le développement d’applications web et mobiles. 
+															Acquisition de compétences en front-end, back-
+										      		</div>
+										      		<div class="col-md-6">
+										      			<p>
+															end, gestion de bases de données et déploiement 
+															de solutions numériques adaptées aux besoins des utilisateurs.
+														</p>
+														</p>
+										      		</div>
+										      	</div>
+									         </div>
+									    </div>
+									</div>
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingTwo">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+													Licence en Anglais - Etudes Americaines (Octobre 2018 - Juillet 2019, à l'Université d'Abomey-Calavi)
+									            </a>
+									        </h4>
+									    </div>
+									    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+									        <div class="panel-body">
+									            <p>
+													Formation en langue anglaise, culture et civilisation américaines, avec le développement de compétences en communication, analyse critique et traduction.
+												</p>
+									        </div>
+									    </div>
+									</div>
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingThree">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+													Baccalauréat Série D
+									            </a>
+									        </h4>
+									    </div>
+									    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+									        <div class="panel-body">
+									            <p>Far far away, behind the word <strong>mountains</strong>, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>	
+									        </div>
+									    </div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<h2 class="colorlib-heading animate-box">Formations complémentaires</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+							<div class="fancy-collapse-panel">
+								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingOne">
+									        <h4 class="panel-title">
+									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+													De l’idée à un produit à succès (MasterClass) - Animé par Brice GBOYOU, CEO de All Web Services
+									            </a>
+									        </h4>
+									    </div>
+									</div>
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingTwo">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+													Bâtir sa liberté financière dès les études – animé par M. Malick AMADOU, 
+													DG de l’AGA Africaine de Gestion des Actifs
+									            </a>
+									        </h4>
+									    </div>
+									</div>
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingThree">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+													L’importance du personal branding à l’ère du digital – animé par M. Béni TOSSOU, CEO de Studio PodLab
+									            </a>
+									        </h4>
+									    </div>
+									</div>
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingFour">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+													L’importance du personal branding à l’ère du digital – animé par M. Béni TOSSOU, CEO de Studio PodLab
+									            </a>
+									        </h4>
+									    </div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Projects Section -->
+			<section class="colorlib-work" data-section="work">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Projets</span>
+							<h2 class="colorlib-heading animate-box">Projets Académiques</h2>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="project" style="background-image: url(images/fierbj.png);">
+								<div class="desc">
+									<div class="con">
+										<h3><a href="work.html">Projet 1</a></h3>
+										<p>SiteWeb pour l'entreprise FIEREMENT BENINOIS</p>
+										<span>HTML, CSS, JavaScript, PHP, MySQL</span>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
+							<div class="project" style="background-image: url(images/siteweb_boutique.png);">
+								<div class="desc">
+									<div class="con">
+										<h3><a href="work.html">Projet 2</a></h3>
+										<p>Création du site web de gestion d’une boutique,pour petits commerçants, 
+											avec un système de gestion des produits, des clients et des commandes.
+										</p>
+										<span>Technologies utilisées : HTML, CSS, JavaScript, PHP, MySQL</span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box">
+							<p><a href="#" class="btn btn-primary btn-lg btn-load-more">Load more <i class="icon-reload"></i></a></p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Contact Section -->
+			<section class="colorlib-contact" data-section="contact">
+				<div class="colorlib-narrow-content">
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+							<span class="heading-meta">Joignez moi</span>
+							<h2 class="colorlib-heading">Contact</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-5">
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-globe-outline"></i>
+								</div>
+								<div class="colorlib-text">
+									<p><a href="#">credovirchy0@gmail.com</a></p>
+								</div>
+							</div>
+
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-map"></i>
+								</div>
+								<div class="colorlib-text">
+									<p>Cotonou - Bénin</p>
+								</div>
+							</div>
+
+							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
+								<div class="colorlib-icon">
+									<i class="icon-phone"></i>
+								</div>
+								<div class="colorlib-text">
+									<p><a href="tel://">+229 019 614 5176</a></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-7 col-md-push-1">
+							<div class="row">
+								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
+									<form action="POST" class="colorlib-form">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Nom">
+										</div>
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Email">
+										</div>
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Objet du message">
+										</div>
+										<div class="form-group">
+											<textarea name="" id="message" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+										</div>
+										<div class="form-group">
+											<input type="submit" class="btn btn-primary btn-send-message" value="Send Message">
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		</div><!-- end:colorlib-main -->
+	</div><!-- end:container-wrap -->
+	</div><!-- end:colorlib-page -->
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Owl carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Counters -->
+	<script src="js/jquery.countTo.js"></script>
+	
+	
+	<!-- MAIN JS -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
